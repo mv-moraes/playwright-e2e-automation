@@ -94,25 +94,6 @@ qa-playwright-portfolio
 ├── package.json
 └── README.md
 
-qa-playwright-portfolio
-│
-├── tests
-│ ├── login.spec.js
-│ ├── cart.spec.js
-│ └── checkout.spec.js
-│
-├── pages
-│ ├── LoginPage.js
-│ ├── CartPage.js
-│ └── CheckoutPage.js
-│
-├── data
-│ └── testData.js
-│
-├── playwright.config.js
-├── package.json
-└── README.md
-
 npm install
 
 
